@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Sys#0002 - aka Chris👋
 
-<!--
-**Sys0002/Sys0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a normal guy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I’m currently learning c++/reading books about it and lua
+-  I’m looking to collaborate with other scripters.
+-  Fun fact: I love having fun, and talk with friends
+
+
+<br />
+
+### Languages:
+
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
+<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" />
+
+
+<br />
+<br />
+
+---
+
+
