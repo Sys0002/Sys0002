@@ -3,9 +3,9 @@
 
 ## I'm a normal guy.
 
--  I’m currently learning c++/reading books about it and lua
+-  I’m currently learning cpp/reading books about it and lua
 -  I’m looking to collaborate with other scripters.
--  Fun fact: I love having fun, and talk with friends
+-  Fun fact: I love having fun, talking with friends, doing school assignments, since I'm good at it.
 
 
 <br />
