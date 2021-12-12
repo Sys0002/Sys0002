@@ -11,7 +11,7 @@
 <br />
 
 ### Languages:
-
+<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=Sys0002"/> 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
 <img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" />
 
