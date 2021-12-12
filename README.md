@@ -7,7 +7,7 @@
 -  I’m looking to collaborate with other scripters.
 -  Fun fact: I love having fun, talking with friends, doing school assignments, since I'm good at it.
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Sys0002=&theme=radical)
 <br />
 
 ### Languages:
