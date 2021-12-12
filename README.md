@@ -18,7 +18,6 @@
 
 <br />
 <br />
-![GitHub Stats](https://komarev.com/ghpvc/?username=Sys0002)
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sys0002&theme=radical)---
 
 
