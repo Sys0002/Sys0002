@@ -7,7 +7,7 @@
 -  I’m looking to collaborate with other scripters.
 -  Fun fact: I love having fun, talking with friends, doing school assignments, since I'm good at it.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sys0002=&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sys0002&show_icons=true&theme=radical)
 <br />
 
 ### Languages:
