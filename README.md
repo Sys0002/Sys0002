@@ -12,7 +12,7 @@
 
 <h3 align="left">CLick here to message me on discord:</h3>
 <p align="left">
-<a href="https://discord.com/users/494504043863867407 " ><img align="center" src="https://lanyard-profile-readme.vercel.app/api/494504043863867407?idleMessage=In%20Visual%20Studio%20Code" alt="xfwDsMGEzm" /></a>
+<a href="https://discord.com/users/494504043863867407 " ><img src="https://lanyard-profile-readme.vercel.app/api/494504043863867407?idleMessage=In%20Visual%20Studio%20Code"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
