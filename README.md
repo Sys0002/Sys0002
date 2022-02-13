@@ -6,7 +6,7 @@
 
 - ⚡ I'm currently working on a project, with friends.
 
-- ⚡ I'm currently learning about **Csharp, C++, JS, Luau, Html**
+- ⚡ I'm currently learning about **JavaScript, Lua, C++, Cross-Platform Gui Programming**
 
 - ⚡ You can reach me at discord. **Sys#0002**
 
