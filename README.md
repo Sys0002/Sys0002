@@ -6,7 +6,7 @@
 
 - ⚡ I'm currently working on a project, with friends.
 
-- ⚡ I'm currently learning about **JavaScript/Node.Js, Lua, C++, bit of CSharp/C# when it comes to internal game hacking, Cross-Platform Gui Programming.**
+- ⚡ I'm currently learning about **JavaScript/Node.Js, Lua, C++, bit of CSharp/C#, Cross-Platform Gui Programming.**
 
 - ⚡ You can reach me at discord. **Sys#0002**
 
