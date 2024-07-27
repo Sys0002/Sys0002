@@ -1,6 +1,5 @@
-```js
-                                              <Quick Introduction>
-                                             A silk shawl, as indigo as the midnight heavens, lay draped across the god’s brass thighs
+```
+ A silk shawl, as indigo as the midnight heavens, lay draped across the god’s brass thighs
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sys0002&label=Profile%20views&color=0e75b6&style=flat" alt="sys0002" /> </p>
 
